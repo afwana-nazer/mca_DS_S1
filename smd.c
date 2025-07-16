@@ -35,6 +35,7 @@ void insert(n)
  		        flag=1;
  		        break;
 		 }
+	}
 		
 		 if(flag==0)
 		 {
@@ -42,9 +43,9 @@ void insert(n)
 		 }
 		 else
 		 {
-		 	printf("element element found");
+		 	printf("element found");
 		 }
-	 }
+	 
  }
  
  void sort()
